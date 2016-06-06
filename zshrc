@@ -4,3 +4,6 @@ for rcfile in "${ZDOTDIR:-$HOME}"/.zprezto/runcoms/^README.md(.N); do
 done
 
 tmux
+
+# 自動補完
+autoload -U compinit; compinit
