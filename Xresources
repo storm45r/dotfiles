@@ -5,7 +5,7 @@ XTerm*saveLines:           2000
 
 
 xterm*faceName:Ricty
-XTerm*faceSize:              10
+XTerm*faceSize:              11
 
 ! Solarized color scheme for the X Window System
 !
