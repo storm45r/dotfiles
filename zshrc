@@ -42,5 +42,4 @@ function peco-src () {
 zle -N peco-src
 bindkey '^]' peco-src
 
-//screenfetch
-screnfetch -t
+screenfetch -t
